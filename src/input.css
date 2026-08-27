@@ -5,7 +5,7 @@
   --color-primary: #0a4d68;
   --color-secondary: #eef6fb;
   --color-accent: #17a2d4;
-  --font-heading: "DM Serif Display", serif;
+  --font-heading: "DM Sans", sans-serif;
   --font-body: "Inter", sans-serif;
 }
 @layer base {
