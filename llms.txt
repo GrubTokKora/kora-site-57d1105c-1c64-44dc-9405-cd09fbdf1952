@@ -1,5 +1,26 @@
 # Spring Dental
-Gentle, modern dentistry in Dayton, Ohio
-Address: 5515 N Springboro Pike, Dayton, OH 45449, USA
-Phone: (937) 294-9400
-Web: https://www.springdental.com/
+
+> Family & cosmetic dental practice in Dayton, Ohio, led by Dr. Ravinder Gampa, DDS. Serving West Carrollton, Kettering, Centerville, Springfield, Miamisburg and Oakwood for 15+ years. Rated 4.4/5 across 111+ Google reviews.
+
+## Contact
+- Address: 5515 N Springboro Pike, Dayton, OH 45449
+- Phone: (937) 294-9400
+- Email: rk_gampa@hotmail.com
+- Hours: Monday–Thursday 8:00 AM – 5:00 PM; Friday, Saturday, Sunday closed
+- Book: https://www.springdental.com/appointment.html
+
+## Services
+- General & preventive dentistry: https://www.springdental.com/general-dentistry.html
+- Cosmetic dentistry (whitening, veneers, CEREC): https://www.springdental.com/cosmetic-dentistry.html
+- Dental implants: https://www.springdental.com/dental-implants.html
+- Orthodontics & Invisalign: https://www.springdental.com/orthodontics.html
+- Oral surgery & wisdom teeth: https://www.springdental.com/oral-surgery.html
+- Emergency dental care (same-day): https://www.springdental.com/emergency-dentistry.html
+
+## About
+- Dr. Ravinder Gampa earned his BDS (1982) and MDS in Oral Medicine & Radiology (1987) from Osmania University, Hyderabad, India, and has practiced in the Dayton area since 2000. Member of the American Dental Association, Ohio Dental Association and Dayton Dental Society.
+- Formerly known as West Carrollton Family Dental.
+
+## Notes
+- New patients welcome. Most PPO insurance accepted; CareCredit and flexible financing available.
+- For emergencies, call (937) 294-9400.
