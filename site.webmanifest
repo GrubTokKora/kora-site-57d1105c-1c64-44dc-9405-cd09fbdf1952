@@ -3,8 +3,8 @@
   "short_name": "Spring Dental",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#f5f0e7",
-  "theme_color": "#071f29",
+  "background_color": "#ffffff",
+  "theme_color": "#0a4d68",
   "description": "Family & cosmetic dentist in Dayton, OH.",
   "icons": [
     {
