@@ -3,21 +3,19 @@
 @source "../js/*.js";
 
 /* ------------------------------------------------------------------ *
- * Spring Dental — design tokens (Tailwind @theme)  ·  v3 Editorial Luxe
- * Brand dental-blue kept as the required palette; the surrounding art
- * direction is a warm-ivory editorial system (see assets/styles.css).
+ * Tailwind @theme tokens only — base layer lives in assets/styles.css
+ * Do NOT compile this file over styles.css without merging the base.
  * ------------------------------------------------------------------ */
 @theme {
-  --color-primary: #0a4d68;      /* brand deep blue — buttons, links */
+  --color-primary: #0a4d68;
   --color-primary-700: #073b50;
-  --color-secondary: #eef6fb;    /* brand ice — cool tinted panels */
-  --color-accent: #17a2d4;       /* brand bright blue — accents/decor */
-  --color-accent-ink: #0a6b8f;   /* accent that reads as AA text on paper */
-  --color-paper: #f5f0e7;        /* warm ivory — page ground */
-  --color-ink: #0c2a37;          /* deep teal-ink — text */
-  --color-gold: #a87f4e;         /* brass — hairlines, numerals, flourish */
-  --color-navy: #071f29;         /* deepest sections */
-
-  --font-heading: "Playfair Display", Georgia, "Times New Roman", serif;
+  --color-secondary: #eef6fb;
+  --color-accent: #17a2d4;
+  --color-accent-ink: #0a6b8f;
+  --color-paper: #f5f0e7;
+  --color-ink: #0c2a37;
+  --color-gold: #a87f4e;
+  --color-navy: #071f29;
+  --font-heading: "Playfair Display", Georgia, serif;
   --font-body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
