@@ -1,0 +1,22 @@
+{
+  "name": "Spring Dental",
+  "short_name": "Spring Dental",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f0e7",
+  "theme_color": "#071f29",
+  "description": "Family & cosmetic dentist in Dayton, OH.",
+  "icons": [
+    {
+      "src": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/57d1105c-1c64-44dc-9405-cd09fbdf1952/de8c94d8-887e-4625-825f-ec262dbc28df/1787832175_w2czcc.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://quseprdus1.blob.core.windows.net/kora-business-images/user-media/57d1105c-1c64-44dc-9405-cd09fbdf1952/de8c94d8-887e-4625-825f-ec262dbc28df/1787832175_w2czcc.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
