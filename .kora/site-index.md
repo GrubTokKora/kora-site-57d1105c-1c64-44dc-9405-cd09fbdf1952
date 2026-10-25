@@ -6,15 +6,14 @@ address — and body copy are deliberately not recorded here; read the page itse
 title: Spring Dental | Family & Cosmetic Dentist in Dayton, OH
 purpose: Serve as the home page for Spring Dental, highlighting family and cosmetic dentistry, dental implants, Invisalign, orthodontics, oral surgery, and same-day emergency care in Dayton, OH.
 sections:
-- Hero section with introductory copy and calls to action: Dayton & West Carrollton, Family Dentistry, Cosmetic & Whitening, Dental Implants, Invisalign, Same-Day Emergencies, 15+ Years in Dayton
-- `#main` "Compassionate care that feels like coming home" — Practice introduction and core commitments: Dr. Gampa, General & Preventive, Cosmetic Dentistry, Dental Implants, Orthodontics & Invisalign, Oral Surgery, Emergency Care
-- "Comprehensive dentistry, curated under one roof" — Service offerings list with overview cards: General & Preventive, Cosmetic Dentistry, Dental Implants, Orthodontics & Invisalign, Oral Surgery, Emergency Care
-- "The Spring Dental difference" — Key practice pillars and features
-- "Dr. Ravinder Gampa, DDS" — Dentist biography, credentials, and professional memberships: Dr. Ravinder Gampa, Osmania University, BDS, MDS, Oral Medicine & Radiology, American Dental Association, Ohio Dental Association
-- Key practice statistics and metrics: 15+ Years serving Dayton, 4.4★ Average rating, 111+ Patient reviews, 7 Communities served
-- "Patient reviews" — Testimonials and patient feedback ratings: Google review
-- Financing and insurance information notice
-- `#faq` "Frequently asked questions" — Frequently asked questions and answers for patients: Are you accepting new patients?, Do you take my dental insurance?, Can you see me today for a dental emergency?, Where are you located?
+- `#main` "Gentle dentistry for every smile in the family." — Split hero with video, booking/call buttons, rating and insurance proof points, emergency and hours callout cards
+- "Everything your smile needs, under one roof." — Services tile grid: General & preventive care, Invisalign & clear braces, Emergency care, Cosmetic dentistry, Dental implants, Oral surgery
+- "A dental home that feels like coming home." — Practice introduction and core commitments
+- "The Spring Dental difference." — Numbered reasons: Same-day emergencies, Gentle and unhurried, Modern technology, Insurance and financing
+- "Dr. Ravinder Gampa, DDS" — Dentist credentials card and biography: Osmania University, BDS, MDS, Oral Medicine & Radiology, American Dental Association, Ohio Dental Association
+- `#reviews` "A dentist you'll actually look forward to." — Rating summary, featured review and patient reviews: Google review
+- `#faq` "Questions, answered." — Insurance & financing card and FAQ: Are you accepting new patients?, Do you take my dental insurance?, Can you see me today for a dental emergency?, Where are you located?
+- "Ready when you are. Come say hello." — Visit panel with booking buttons, address, phone, hours, parking
 also: The business name and meta description are duplicated between the HTML meta tags and the JSON-LD schema block.
 also: The review quotes, ratings, and author names are duplicated between the visible review section and the JSON-LD schema block.
 also: The FAQ questions and answers are duplicated between the visible FAQ accordion and the JSON-LD FAQPage schema block.
@@ -151,7 +150,7 @@ title: Dental Services in Dayton, OH | Spring Dental
 purpose: List the dental services offered by Spring Dental in Dayton, Ohio.
 sections:
 - Page introduction
-- Service cards list: General & Preventive, Cosmetic Dentistry, Dental Implants, Orthodontics & Invisalign, Oral Surgery, Emergency Care
+- Services tile grid: General & preventive care, Invisalign & clear braces, Emergency care, Cosmetic dentistry, Dental implants, Oral surgery
 - Practice highlights and features
 - `#reviews` — Patient reviews list
 - Call to action banner
@@ -178,7 +177,7 @@ change to the site's content can land there; the rest only make the site work or
 - `llms.txt` — The complete text summary and structured details of the dental practice for LLMs and AI crawlers: Spring Dental, Dr. Ravinder Gampa, DDS, West Carrollton, Kettering, Centerville, Springfield, Miamisburg, Oakwood, 5515 N Springboro Pike, Dayton, OH 45449, General & preventive dentistry, Cosmetic dentistry (whitening, veneers, CEREC), Dental implants, Orthodontics & Invisalign, Oral surgery & wisdom teeth, Emergency dental care (same-day), West Carrollton Family Dental  [content]
 - `robots.txt` — 26 bytes — too small to hold content
 - `sitemap.xml` — 110 bytes — too small to hold content
-- `assets/site.css` — Spring Dental's site stylesheet (CSS)
+- `assets/site.css` — Spring Dental's site stylesheet (CSS), design system v4 "Fresh Clinical"; loads Geist + Instrument Serif and overrides the brand color/font tokens
 - `js/includes.js` — The site's shared header, footer, navigation menu, contact details, social links, and service list: Spring Dental, Cosmetic Dentistry, Dental Implants, Oral Surgery, Emergency Care, Dr. Ravinder Gampa  [content]
 - `js/main.js` — reveal-on-scroll, hours highlighting, footer year, FAQ single-open, and form submission logic
 
